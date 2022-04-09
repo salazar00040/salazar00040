@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with project development
 - 🤔 I’m looking for help with studying and updating myself with the newest technologies, so I can contribute with knowledge
 
-## Oiii eu sou a Paulo Cesar, Desenvolvedor Frontend!
+## Oiii eu sou Paulo Cesar, Desenvolvedor Frontend!
 <div align="center">
   <a href="https://github.com/salazar00040">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salazar00040&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
   
   ##
