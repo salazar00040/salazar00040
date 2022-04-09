@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working with mobile development.
 - 🌱 I’m currently learning Clean Code and Clean Architecture
-- 👯 I’m looking to collaborate with project development
-- 🤔 I’m looking for help with studying and updating myself with the newest technologies, so I can contribute with knowledge
+- 👯 I’m looking to collaborate with flutter projects
+
 
 ## Oiii eu sou Paulo Cesar, Desenvolvedor Frontend!
 <div align="center">
