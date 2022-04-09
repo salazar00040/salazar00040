@@ -15,10 +15,10 @@
   <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="Paulo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/java-original.svg">
-  <img align="center" alt="Paulo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/html-original.svg">
-  <img align="center" alt="Paulo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/css-original.svg">
-   <img align="center" alt="Paulo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/python-original.svg">
+  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Paulo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg">
+  <img align="center" alt="Paulo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg">
+   <img align="center" alt="Paulo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
 </div>
   
