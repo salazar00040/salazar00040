@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with mobile development.
-- 🌱 I’m currently learning Clean Code and Clean Architecture
-- 👯 I’m looking to collaborate with flutter projects
 
 
 ## Oiii eu sou Paulo Cesar, Desenvolvedor Frontend!
